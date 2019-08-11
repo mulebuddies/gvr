@@ -1,1 +1,1 @@
-hi this is normal text file from rahul
+hi this is normal text file from rahul.i want it to push it to the git hub
